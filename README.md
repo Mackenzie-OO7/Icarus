@@ -1,6 +1,6 @@
 # Icarus
 
-Talk to Icarus about everthing solar energy.
+Talk to Icarus about solar energy systems.
 
 Brainstorm the perfect solar energy solution for your needs based on your budget, load, and desired setup.
 
